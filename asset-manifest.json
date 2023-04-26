@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MoviesWebClient/static/css/main.803f0469.css",
+    "main.js": "/MoviesWebClient/static/js/main.4cab5da3.js",
+    "index.html": "/MoviesWebClient/index.html",
+    "main.803f0469.css.map": "/MoviesWebClient/static/css/main.803f0469.css.map",
+    "main.4cab5da3.js.map": "/MoviesWebClient/static/js/main.4cab5da3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.803f0469.css",
+    "static/js/main.4cab5da3.js"
+  ]
+}
